@@ -1,5 +1,4 @@
 import random
-
 choices = ['Rock', 'Paper', 'Scissors']
 computer_choice = random.choice(choices)
 choice = (input('Enter your choice: ')).capitalize()
